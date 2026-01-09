@@ -1,5 +1,5 @@
-function Home(){
-    return<>Iniciando 2026</>
+function Home() {
+  return <>Iniciando 2026</>;
 }
 
 export default Home;
